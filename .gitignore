@@ -1,0 +1,15 @@
+*vscode
+*__pycache__
+*widerface
+*runs
+*wandb
+*.pt
+*.onnx
+*images
+*.jpg
+*.o
+*.zip
+*.trt
+*Datax
+# *Model
+*.idea
